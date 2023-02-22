@@ -23,7 +23,7 @@ bef = aft - bef;
 }
 bef1 = (bef / l);
 bef2 = (bef % l);
-ft1 = (aft / l);
+aft1 = (aft / l);
 aft2 = (aft % l);
 for (i = 92; i < 99; ++i)
 {
